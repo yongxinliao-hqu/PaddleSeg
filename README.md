@@ -26,13 +26,23 @@
 
 程序1 需要
 
-（1）先修改PaddleSeg中的 dataset.py
+（1）先修改PaddleSeg中的 dataset.py （注意删掉括号和括号中的中文）
 
-（2）上传utils.py
+（2）上传utils.py （注意删掉括号和括号中的中文）
 
 （3）打开 “所有模型的链接.docx”，下载对应的config.yml进行训练
 
-注意删掉括号和括号中的中文
+对应 模型及参数文件夹 及 B榜预测结果（对比度曾强后）
+pred_0722_solution4_22000_77874_jpg # 0.77031
+pred_0730_solution16_31000_enlage_ORC_Aunk_B_jpg # 0.76909
+pred_0730_solution15_31000_enlage_dv3p_Aunk_B_jpg # 0.76538
+pred_0730_solution16_17500_Aunk_B_jpg # 0.76677
+pred_0720_solution2_10000_77842_jpg # 0.77004
+pred_0718_solution1_16000_76161_jpg # 0.76223
+pred_0726_solution12_15000_75331u_jpg # 0.76359
+0803_solution17_57500_Aunk_B_jpg # 0.77094
+pred_0804_solution19_60000_Aunk_B_jpg # 0.76701
+pred_0804_solution18_37600_Aunk_B_jpg # 0.76324
 
 程序2 需要
 
